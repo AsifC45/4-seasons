@@ -1,0 +1,32 @@
+html {
+    background-color: #1C9BD2;
+}
+
+body {
+    text-align: center;
+    width: 800px;
+    margin: 55px auto;
+    padding: 5px 100px;
+    background-color: white;
+    border-radius: 55px;
+    font-family: "Helvetica";
+}
+
+button {
+    font-size: 18px;
+    padding: 2px 15px;
+    margin: 0 10px;
+}
+
+#season-title {
+    color: #1C9BD2;
+}
+
+#season-img {
+    display: block;
+    margin: auto;
+}
+
+.active {
+    box-shadow: 3.6px 3.6px grey;
+}
